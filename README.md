@@ -1,8 +1,8 @@
-🚗 Vehicle Price Prediction
+# 🚗 Vehicle Price Prediction
 A beginner-friendly machine learning project that predicts vehicle prices using specifications like make, model, mileage, fuel type, and more.
 Built in Python with Random Forest Regressor for improved accuracy.
 
-📌 Objective
+# 📌 Objective
 To develop a system that can predict vehicle prices using key features from a dataset of various cars.
 The goal is to explore the data, handle missing values, and train a regression model to make price predictions.
 
